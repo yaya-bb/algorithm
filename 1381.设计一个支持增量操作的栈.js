@@ -1,5 +1,5 @@
-    /**
- * @param {number} maxSize
+ /**
+* @param {number} maxSize
  */
 var CustomStack = function(maxSize) {
     //用 maxSize 初始化对象，maxSize 是栈中最多能容纳的元素数量，栈在增长到 maxSize 之后则不支持 push 操作。
