@@ -5,6 +5,12 @@
  *     this.next = null;
  * }
  */
+/*
+* 思路: 快慢指针
+* a.初始化快慢指针
+* b.fast向后移动k个位置，然后fast和slow再一起向后移动；
+* c.当fast走到最后的时候，slow的位置就是倒数第k个位置
+*/
 /**
  * @param {ListNode} head
  * @param {number} k
