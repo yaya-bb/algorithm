@@ -27,3 +27,5 @@ var addTwoNumbers = function(l1, l2) {
   }
   return dummy.next;
 };
+// 时间复杂度:O(n+m)
+// 空间复杂度:O(1)
