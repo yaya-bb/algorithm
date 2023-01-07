@@ -16,5 +16,10 @@ var rightSideView = function(root) {
   }
   return res;
 };
+<<<<<<< HEAD
 // 时间复杂度:O(n)
 // 空间复杂度:O(n)
+=======
+// 时间复杂度：O(n)
+// 空间复杂度：O(n)
+>>>>>>> 6391464de0873532adf4a179e834b7ae2f76f897
