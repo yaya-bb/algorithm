@@ -29,3 +29,4 @@
   root.right = buildTree(preorder.slice(rootValueIndex),inorder.slice(rootValueIndex+1));
   return root
 };
+- 时间复杂度：O(n)
