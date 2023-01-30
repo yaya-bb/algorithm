@@ -32,3 +32,4 @@ var rotateRight = function(head, k) {
     slow.next = null;
     return res;
 };
+- 时间复杂度：O(n)
