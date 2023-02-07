@@ -9,3 +9,5 @@ var removeNthFromEnd = function(head, n) {
   slow.next = slow.next.next;
   return dummy.next;
 };
+- 时间复杂度：O(n)
+- 空间复杂度：O(1)
