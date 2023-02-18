@@ -1,2 +1,2 @@
 # algorithm
-Leetcode打卡练习
+Leetcode打卡练习！
