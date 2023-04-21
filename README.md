@@ -1,2 +1,2 @@
 # algorithm
-Leetcode算法打卡练习～
+Leetcode专题算法练习
